@@ -1,0 +1,20 @@
+
+body{
+    font-family: 'Bangers', cursive;
+font-family: 'Quantico', sans-serif;
+}
+button {
+    padding: 10px;
+    margin-top: 10px;
+    width: 5%;
+    color: white;
+    background-color: #8dc26b;
+    border: none;
+  }
+li{
+    font-size: x-large;
+
+}
+.main{
+    text-align: center;
+}
